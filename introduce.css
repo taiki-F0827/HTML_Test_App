@@ -1,0 +1,24 @@
+header h1{
+    color:blue;
+    font-size:large;
+    text-align: center;
+}
+
+header h3{
+    color:brown;
+}
+
+#about_me h1{
+    text-align: center;
+    background-color:aqua;
+}
+
+#about_hobby h1{
+    text-align: center;
+    background-color: aqua;
+}
+
+#about_food h1{
+    text-align: center;
+    background-color: aqua;
+}
